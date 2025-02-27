@@ -1,0 +1,41 @@
+${HOME}/.config/ghostty/themes/ghostty.theme
+
+# black
+palette = 0=#<wallbash_1xa1>
+palette = 8=#<wallbash_1xa4>
+
+# red
+palette = 1=#<wallbash_4xa9>
+palette = 9=#<wallbash_4xa8>
+
+# green
+palette = 2=#<wallbash_2xa9>
+palette = 10=#<wallbash_2xa8>
+
+# yellow
+palette = 3=#<wallbash_3xa9>
+palette = 11=#<wallbash_3xa8>
+
+# blue
+palette = 4=#<wallbash_1xa7>
+palette = 12=#<wallbash_1xa7>
+
+# magenta
+palette = 5=#<wallbash_2xa7>
+palette = 13=#<wallbash_2xa7>
+
+# cyan
+palette = 6=#<wallbash_3xa7>
+palette = 14=#<wallbash_3xa7>
+
+# white
+palette = 7=#<wallbash_4xa9>
+palette = 15=#<wallbash_4xa8>
+
+background = #<wallbash_pry1>
+foreground = #<wallbash_txt1>
+cursor-color = #<wallbash_pry4>
+cursor-text = #<wallbash_txt4>
+selection-background = #<wallbash_1xa3>
+selection-foreground = #<wallbash_txt1>
+split-divider-color = #<wallbash_1xa2>
